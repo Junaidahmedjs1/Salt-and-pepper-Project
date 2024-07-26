@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Font family started */
+
+ @font-face {
+    font-family: apercu;
+    src: url(../fonts/aperculight.otf);
+ }
+ @font-face {
+    font-family:futurak;
+    src: url(../fonts/futurak.ttf);
+ }
+ @font-face {
+    font-family:buttlerbold;
+    src: url(../fonts/butlerbold.otf);
+ }
+ /* Font family Ended */
+
+ html{
+    font-size: 62.5%;
+    flex-wrap: wrap;
+}
+
+
+
+body{
+    background-color: var(--black);
+    color: var(--white);
+    
+}
+
+
+/* css variable */
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --red: #ed1c24;
+    --green: #28a745;
+    --gray: #0f0f0f;
+}
+
+
+
+/* utility classes Started */
+.d-flex{
+    display: flex;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+
+.justify-start{
+    justify-content: start;
+}
+
+.item-center{
+    align-items: center;
+}
+.item-start{
+    align-items: start;
+}
+
+.gap-1{
+    gap: 5px;
+}
+.gap-2{
+    gap: 10px;
+}
+.gap-3{
+    gap: 15px;
+}
+.gap-4{
+    gap: 20px;
+}
+.gap-5{
+    gap: 25px;
+}
+
+
+m-1{
+    margin: 5px;
+}
+m-2{
+    margin: 10px;
+}
+m-3{
+    margin: 15px;
+}
+m-4{
+    margin: 20px;
+}
+m-5{
+    margin: 25px;
+}
+
+mx-1{
+    margin: 0px 5px;
+}
+mx-2{
+    margin: 0px 10px;
+}
+mx-3{
+    margin: 0px 15px;
+}
+mx-4{
+    margin: 0px 20px;
+}
+mx-5{
+    margin: 0px 25px;
+}
+
+.font-1 {
+    font-size: 1.6rem;
+}
+
+.font2 {
+    font-size: 2rem;
+}
+
+.font3 {
+    font-size: 2.5rem;
+}
+
+.font4 {
+    font-size: 4rem;
+}   
+.font5{
+    font-size: 6rem;
+}
+
+.rounded-sm{
+    border-radius: 20px;
+}
+
+.text-none{
+    text-decoration: none;
+    color: var(--white);
+}
+
+.bg-dark{
+    background-color: var(--black);
+
+}
+
+.text-white{
+    color: var(--white);
+}
+/* utility classes Ended*/
