@@ -438,6 +438,7 @@ border-radius: 5px;
     .buttlerbold-text{
       font-size: 4.8rem;
       font-family: 'buttlerbold';
+      
     }
     .change-text1{
         font-family:'futurak';
@@ -448,3 +449,80 @@ border-radius: 5px;
         color: #FFFFFF;
     }
      /* promotion-section Ended */
+
+
+     /* express franchise Started */
+     .express-franchise-text{
+      text-align: center;
+      margin-top: 2rem;
+     }
+     .text_change{
+      font-size: 2.8rem;
+      font-family:'buttlerbold';
+     }
+     .express-card1,.express-card2,.express-card2,.express-card3,.express-card4,.express-card5,.express-card6,.express-card7 {
+      width: 380px;
+      height: 350px;
+      background-color: white;
+      border-radius: 10px;
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    .ecard img {
+      height: 100px;
+      width: 100px;
+    }
+    .express-card-text {
+      padding: 20px;
+      margin-top: 20px;
+      text-align: center;
+      width: 100%;
+    }
+    .express-card {
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      align-items: center;
+      column-gap: 60px;
+      row-gap: 20px;
+    }
+    .apercu-text1{
+      font-size:2rem ;
+      font-family: 'apercu';
+      margin-bottom: 10px;
+    }
+    .buttlerbold-text1{
+      font-size:3.2rem;
+      font-family: 'buttlerbold';
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 50px;
+    }
+    .s-card img {
+      height: 200px;
+      width: 200px;
+      margin-left: 30px;
+      border-radius: 2px;
+    }
+    .special-feed {
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      height: auto;
+    }
+    .special-card {
+      padding: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content:space-between;
+      column-gap: 50px;
+    }
+
+     /* express franchise Ended */
+     
