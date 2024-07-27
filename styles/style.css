@@ -139,7 +139,7 @@ input[name="r"] {
     font-family:'futurak';
     font-style: normal;
     font-weight: 400;
-    font-size:4rem;
+    font-size:3rem;
     line-height: 62px;
     color: #FFFFFF;
 }
@@ -279,8 +279,6 @@ border-radius: 5px;
     }
     .franchises-2{
       font-size: 2rem;
-      margin-top:15px;
-      margin-bottom:20px;
       font-family: 'apercu';
       color: #ffffffb3;
     }
@@ -408,3 +406,45 @@ border-radius: 5px;
         margin-bottom: 2rem;
       }
      /* franchsies-section2 ended*/
+
+     
+     /* promotion-section Started */
+     .promotion-section {
+      width: 100%;
+      height: 90vh;
+      background: rgba(255, 255, 255, 0.06);
+    }
+    .bg-green{
+      background-color: var(--green);
+
+    }
+
+    .circle-btn1{
+    background-color: #ffffff;
+    padding: 10px 10px;
+    border-radius: 40px ;
+    color:var(--green);
+  }
+    /* express vilage */
+    .village-f img {
+      width: 650px;
+      height: 350px;
+      object-fit: fill;
+    }
+    .promotion-text{
+      padding: 30px;
+      text-align: center;
+    }
+    .buttlerbold-text{
+      font-size: 4.8rem;
+      font-family: 'buttlerbold';
+    }
+    .change-text1{
+        font-family:'futurak';
+        font-style: normal;
+        font-weight: 400;
+        font-size:5.2rem;
+        line-height: 62px;
+        color: #FFFFFF;
+    }
+     /* promotion-section Ended */
