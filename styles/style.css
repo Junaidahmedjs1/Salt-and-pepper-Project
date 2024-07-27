@@ -253,3 +253,158 @@ border-radius: 5px;
         margin-top:50px; 
      }
      /* franchises Ended */
+
+
+     /* franchsies-section2 started */
+     .franchises2-text{
+        padding: 10px;
+        text-align: center;
+      }
+
+      .franchises2-card-container{
+      margin-top: 30px;
+      background-image:url(../assests/Franchises/shahdow.webp);
+      background-repeat: no-repeat;
+      background-position: bottom right;
+    }
+      .apercu-text{
+        font-size: 3rem;
+        font-family: 'apercu';
+      }
+      my-1{
+        margin-top:15px;
+    }
+    my-2{
+        margin-bottom:20px;
+    }
+    .franchises-2{
+      font-size: 2rem;
+      margin-top:15px;
+      margin-bottom:20px;
+      font-family: 'apercu';
+      color: #ffffffb3;
+    }
+
+      .franchises-card1{
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card1 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card2 {
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card2 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      
+      .franchises-card3 {
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card3 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card4 {
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card4 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card5 {
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card5 img {
+        width: 350px;
+        height: 250px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card6 {
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card6 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card7{
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card7 img {
+        width: 350px;
+        height: 250px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card8 {
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card8 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card9{
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card9 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card10 {
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card10 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+      .franchises-card11{
+        width: 30%;
+        height: 700px;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .franchises-card11 img {
+        height: 250px;
+        width: 350px;
+        margin-bottom: 2rem;
+      }
+     /* franchsies-section2 ended*/
