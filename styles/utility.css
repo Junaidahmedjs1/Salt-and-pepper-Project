@@ -18,6 +18,16 @@
     font-family:buttlerbold;
     src: url(../fonts/butlerbold.otf);
  }
+
+ @font-face {
+    font-family: dosis;
+    src: url(../fonts/Dosis-VariableFont_wght.ttf);
+ }
+
+ @font-face {
+    font-family:philosopher ;
+    src: url(../fonts/Philosopher-Regular.ttf);
+ }
  /* Font family Ended */
 
  html{

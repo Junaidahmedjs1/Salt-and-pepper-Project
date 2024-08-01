@@ -1,0 +1,250 @@
+.logo-img{
+    width: 165px;
+
+}
+.nav-item{
+    font-size: 1.6rem;
+    font-family:'apercu';
+}
+
+.navbar{
+    padding: 15px;
+}
+
+.franchise-btn{
+    background-color: transparent;
+    padding: 20px 25px ;
+    border-radius: 30px;
+    border: 1px solid #ffffff;
+    font-size: 1.6rem;
+}
+
+.order-btn{
+    background-color:#ed1c24;
+    border: none;
+    padding: 20px 25px ;
+    border-radius: 30px;
+    font-size: 1.6rem;
+}
+
+.circle-btn{
+    background-color: #ffffff;
+    padding: 10px 10px;
+    border-radius: 40px ;
+    color: #ed1c24;
+}
+
+.arrow-icon{
+    font-size: 1.5rem;
+
+}
+/* navbar ended */
+/* feedback Heading Started */
+
+.apercu-text1{
+    font-family: 'apercu';
+    font-size: 1.5rem;
+    line-height: 24px;}
+
+
+.apercu-text2{
+    font-family: 'apercu';
+    font-size: 2.0rem;
+    margin:25px 0;
+    font-weight:500;
+}
+.apercu-text3{
+    font-family: 'apercu';
+    font-size: 2.4rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.apercu-text4{
+    font-family: 'apercu';
+    font-size: 2.8rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 12px;
+}
+
+.dosis-text1{
+    font-family: "dosis", Sans-serif;
+    text-align:center;
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.philospher-text1{
+    font-family: "apercu", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.feedback-left-text P{
+    text-align:center;
+    font-family: "dosis", Sans-serif;
+    font-size:2rem;
+    margin-bottom: 25px;
+    font-weight: 400;
+    line-height: 1.3em;
+}
+
+.feed-img {
+    width: 100%;
+    height:900px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assests/Icons/Icon5.webp');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-head{
+    font-size: 5rem;
+    font-family: 'apercu';
+}
+.feedback-head{
+    font-size: 12rem;
+    font-family: 'apercu';
+}
+.para-head{
+    font-size: 3rem;
+    font-family: 'apercu';
+}
+.main-section{
+    width:100%;
+    display:flex;
+    height:170vh;
+    gap:10px;
+    margin-bottom:20px;
+}
+.form-section{
+    width:50%;
+    height:170vh;
+    padding-left:30px;
+    border-right: 2px dotted white;
+}
+
+.feedback-map{
+    width:50%;
+    height:160vh;
+}   
+.star-container {
+    width:600px;
+    height: 200px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom:20px;
+}
+
+.star-card1,
+.star-card2,
+.star-card3,
+.star-card4 {
+    width: calc(45% - 10px); 
+    height:90px; 
+    margin-bottom: 10px; 
+    padding: 10px; 
+}
+
+.star-card1 p,
+.star-card2 p,
+.star-card3 p,
+.star-card4 p {
+    margin-bottom: 5px;
+}
+
+.star1 {
+    font-size:3rem;
+    margin: 2px; 
+}
+/* form start  */
+.form-container{
+    height:200vh;
+    padding:20px;
+}
+.form-group,.radio-btn {
+    margin-bottom:20px;
+    width: 100%;
+}
+
+input[type="text"], input[type="datetime-local"], input[type="number"], textarea {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 150px;
+    width: 100%;
+}
+
+ol.horizontal-list{
+    list-style-type: decimal;
+    display: flex;
+
+}
+
+ol.horizontal-list li {
+    margin-right: 25px;
+
+}
+.input1{
+    border-radius: 15px;
+}
+.radio-btn input {
+    margin-right:30px;
+    
+}
+
+.submit {
+    border-radius: 50px;
+    border: 1px solid grey;
+    background-color: red;
+    color: white;
+    padding:20px 40px;
+    text-align: center;
+    text-decoration: none;
+}
+.form-group3{
+    width:100%;
+    padding:20px;
+}
+.form-group3 p{
+    margin-bottom:5px;
+}
+.form-group3 input{
+  margin-right:20px;
+}
+label{
+    margin-right:20px;;
+}
+/* .feedback-map */
+.feedback-text{
+  padding:15px;
+  text-align: center;
+  line-height:1.5;
+}
+iframe{
+    width:100%;
+    height:400px;
+    padding:20px;
+    margin-bottom:50px;
+}
+.feedback-text2{
+    padding:20px;
+    font-size:2.6rem;
+    text-align: center;
+}
+.feedback-text2 p{
+    margin-bottom:1.5rem;
+}
+
+
+/* feedback Heading Ended */
