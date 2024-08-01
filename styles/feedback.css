@@ -248,3 +248,110 @@ iframe{
 
 
 /* feedback Heading Ended */
+
+/* Footer Started */
+     
+.footer-text{
+    max-width:1100px;
+    margin:auto;
+    font-family: 'apercu';
+  }
+  
+  ul{
+    list-style: none;
+  }
+  .footer{
+    margin-top:20%;
+    background: rgba(255, 255, 255, 0.06);
+    background-image: url(../assests/Franchises/a4195117-d4ae-45d4-9088-21162bacdfb1.webp);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size:20%;
+
+  }
+  .footer-col{
+     width:25%;
+    
+  }
+
+  .footer-col p{
+    font-size: 1.4rem;
+    font-family: 'apercu';
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: #bbbbbb;
+    display: block;}
+
+
+    .footer-col h4{
+    font-size: 2rem;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    position: relative;
+  }
+  
+  .footer-col h4::before{
+    content: '';
+    position: absolute;
+    left:0;
+    bottom: -10px;
+    background-color: #e91e63;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+  }
+  
+  .footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+  }
+
+  .footer-col ul li a{
+    font-size: 1.6rem;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: #bbbbbb;
+    display: block;
+    transition: all 0.3s ease;
+  }
+
+  .footer-col .social-links a{
+    display: inline-block;
+    font-size: 1.6rem;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255,255,255,0.2);
+    margin:0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+  }
+
+  .footer-col .social-links a:hover{
+    color:#ffffff;
+    background-color:#ed1c24;
+  }
+
+  .app-links{
+  margin:30px 0
+}
+
+.copy-right {
+    border-top: 2px solid grey;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    padding:20px;
+    margin: 30px;
+    font-size: 1.6rem;
+    font-family: 'apercu';
+    color:#bbbbbb;
+  }
+
+/* Footer Ended */
